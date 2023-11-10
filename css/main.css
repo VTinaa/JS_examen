@@ -96,6 +96,7 @@ h1 {
 
 h1 img {
     width: 50%;
+    height: 420px;
     /* filter: drop-shadow(1px 1px 5px rgb(32, 108, 207)); */
     filter: drop-shadow(0 0 2px rgba(234, 57, 184, .9)) drop-shadow(0 0 4px rgba(234, 57, 184, .4)) drop-shadow(0 0 1rem rgba(234, 57, 184, .3)) drop-shadow(0 0 4rem rgba(234, 57, 184, .1));
     --bs-border-opacity: 1;
